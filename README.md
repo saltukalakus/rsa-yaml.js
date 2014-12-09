@@ -7,7 +7,7 @@ In this fork I have made below changes on JSON to YAML converter (Dumper.js).
 
 -) In JSON key-value pairs, YML output of string values are wrapped with single quotes by default.
 
--) A configuration metadata JSON object can be passed as last parameter to Dumper function to wrap selected keys values to be wrapped in double quotes.
+-) A configuration metadata JSON object can be passed as last parameter to Dumper function so that selected values can be wrapped in double quotes.
 
 Sample use
 ----------
