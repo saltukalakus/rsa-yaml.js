@@ -6,8 +6,8 @@
     "yaml",
     "json"
   ],
-  "author": "Jeremy Faivre <contact@jeremyfa.com>",
-  "maintainer": "R. Saltuk Alakus <saltukalakus@gmail.com>",
+  "author": "R. Saltuk Alakus <saltukalakus@gmail.com>",
+  "initial author": "Jeremy Faivre <contact@jeremyfa.com>",
   "main": "./lib/Yaml.js",
   "dependencies": {
     "argparse": "^0.1.15",
